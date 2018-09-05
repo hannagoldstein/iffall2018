@@ -1,0 +1,35 @@
+h1 {
+	font-size: 4em;
+	font-family: Chalkduster;
+	color: maroon;
+}
+body {
+	margin: 4em;
+	font-size: 1em;
+	font-family: Lucida Grande;
+}
+.Peter{
+	color: red;
+}
+.Dana{
+	color: blue;
+}
+
+.Mayor{
+	color: purple;
+}
+.Ray{
+	color: green;
+}
+.Egon{
+	color: orange;
+}
+.Winston{
+	color: turquoise;
+}
+.Other{
+	color: pink;
+}
+}
+
+}
