@@ -1,0 +1,108 @@
+html {
+	margin: 4em;
+	
+
+
+
+}
+h1{
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+	font-size: 400%;
+	color:lightcoral;
+}
+h2{
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+	font-size: 160%;
+	line-height: 0.3;
+}
+body{
+	
+	color:lightcoral;
+}
+.first{
+	font-weight: bolder;
+	text-align: left;
+	font-size: 24px;
+	}
+
+.second{
+	letter-spacing: 0.3em;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+}
+
+.third {
+	letter-spacing: -0.06em;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+
+}
+.fourth {
+	text-decoration: underline;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+}
+
+.fifth {
+	text-decoration: line-through;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+}
+.sixth {
+	text-decoration: overline;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+
+}
+.seventh {
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+
+}
+
+.eighth {
+	text-transform: lowercase;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+}
+
+.ninth {
+	text-transform: capitalize;
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+}
+.head {
+	font-family: arial, serif;
+	line-height: 1;
+	text-align: left;
+	color: black;
+
+}
+.subhead{
+	font-family: arial, serif;
+	line-height: 1;
+	text-align: left;
+	color: lightcoral; 
+	color-opacity: 50%;
+	font-size: 70%;
+
+}
+.fontweight{
+	font-weight: normal;
+}
+.other {
+	text-align: left;
+	font-size: 24px;
+	font-weight:normal;
+}
