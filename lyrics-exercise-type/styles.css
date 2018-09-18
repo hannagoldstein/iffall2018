@@ -1,0 +1,33 @@
+
+html{
+    background-image: linear-gradient(top left, #33ccff 0%, #0033cc 100%);
+}
+
+
+h1 {
+	font-size: 8em;
+	font-family: 'Fascinate Inline', cursive;
+
+	color: white;
+
+	}
+h2 {
+	font size: 15em;
+	color: steelblue;
+	text-decoration: underline;
+	font-weight: bold;
+	
+}
+	
+body {
+	background-color: lightsteelblue;
+		opacity: 40%;
+	background-position: right top;
+	font-size: 1.5em;
+	font-family: 'Flamenco', cursive;
+	color: white;
+}
+.spread {
+	letter-spacing: 0.7em;
+	color: steelblue;
+}
