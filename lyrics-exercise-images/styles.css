@@ -1,0 +1,58 @@
+
+html{
+    
+}
+
+h1:hover{
+  color:white;
+}
+h1 {
+	font-size: 8em;
+	font-family: 'Fascinate Inline', cursive;
+	color: #594242;
+	background-image: url("https://www.justfabrics.co.uk/images/colours/4419_1_1.jpg")
+	}
+h2 {
+	font size: 15em;
+	color: #594242;
+	text-decoration: underline;
+	font-weight: bold;
+	
+}
+	
+body {
+	background-color: #9B8C8C;
+		opacity: 40%;
+	background-position: right top;
+	font-size: 1.5em;
+	font-family: 'Flamenco', cursive;
+	color: white;
+}
+}
+.column {
+	float: right;
+	width: 50%;
+	overflow: auto;
+}
+.row:after {
+	content:"";
+	display: table;
+	clear: both;
+}
+#left {
+	position: fixed;
+	height: 100%;
+	padding-top: 0px;
+	}
+img {
+	position: absolute;
+	height: 35%;
+	object-fit: contain;
+}
+.spread {
+	letter-spacing: 0.7em;
+	color: #594242;
+}
+.spread:hover {
+	color: white;
+}
