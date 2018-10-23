@@ -1,0 +1,73 @@
+h1 {
+	font-family: 'Six Caps', sans-serif;
+	font-size: 100px;
+	text-align: center;
+	line-height: 0px;
+	background-image:none;
+}
+
+h2 {
+	font-family: 'Six Caps', sans-serif;
+	font-size: 65px;
+	color:white;
+	text-align: center;
+	text-decoration: underline;
+	margin-top:-5px;
+	margin-bottom:0;
+	padding-bottom: 0;
+
+}
+h2:hover {
+	color:white;
+}
+.main{
+	background-image:url('https://www.howsweeteats.com/wp-content/uploads/2016/09/smores-bars-I-howsweeteats.com-1.jpg')
+
+}
+.ingredients {
+	padding-top: 0px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:white;
+	font-weight:lighter;
+	line-height: 6px;
+	padding-right:30px;
+
+}
+.directions {
+	padding-top: 0px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:white;
+	font-weight:lighter;
+	line-height: 23px;
+	padding-left:0;
+	padding-right:30px;
+}
+.box1 {
+	background: #f0b7a1; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #f0b7a1 0%, #bf6e4e 0%, #8c3310 50%, #752201 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #f0b7a1 0%,#bf6e4e 0%,#8c3310 50%,#752201 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #f0b7a1 0%,#bf6e4e 0%,#8c3310 50%,#752201 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#752201',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	padding: 20px;
+	width: 300px;
+	height: 300px;
+	position:50%;
+	border-radius:30px;
+	margin:auto;
+	margin-top: 50px;
+	margin-bottom:50px;
+	
+}
+.box2 {
+	background: #f0b7a1; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #f0b7a1 0%, #bf6e4e 0%, #8c3310 50%, #752201 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #f0b7a1 0%,#bf6e4e 0%,#8c3310 50%,#752201 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #f0b7a1 0%,#bf6e4e 0%,#8c3310 50%,#752201 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#752201',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	margin: 0 10px 10px 0;
+	padding: 20px;
+	width: 300px;
+	height: 760px;
+	margin:auto;
+	border-radius:30px;
+}
