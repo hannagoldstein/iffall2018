@@ -1,0 +1,73 @@
+html,body {
+		height: 100%;
+			font-size: 18px;
+			font-family: 'Roboto', sans-serif;
+			color:white;
+			padding: 0px;
+	}
+
+	body {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+
+		}
+body>div{
+	background-image: url(images/ross.jpg);
+	height: 100%;
+	position:relative;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding:20px;
+}
+
+.whole {
+	text-align:left;
+	padding:15px;
+	margin-right:60%;
+}
+
+.quote {
+		font-weight:bold;
+		font-size:2rem;
+	}
+.attribution {
+		font-style: italic;
+		font-size:1.5rem;
+	}
+@media (min-width:600px) {
+	.quote{
+		font-size:3rem;
+	}
+	.attribution {
+		font-size:2rem;
+	}
+}
+@media (max-width:1100px) {
+	.quote{
+		margin-right:55%;
+}
+	.attribution {
+		margin-right:55%;
+	}
+}
+@media (min-width:1200px) {
+	.quote{
+		font-size:3.5rem;
+	}
+	.attribution{
+		font-size:2.5rem;
+	}
+}
+a {
+        display: block; /* turn the inline element into a box */
+        position: fixed; /* position the anchor fixed to the viewport */
+        top: 0; /* have the top edge of the anchor touch the the top of the viewport */
+        bottom: 0;  /* have the bottom edge of the anchor touch the the bottom of the viewport */
+        left: 0;  /* have the left edge of the anchor touch the the left of the viewport */
+        right: 0;  /* have the right edge of the anchor touch the the right of the viewport */
+        z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+}
+
+}
